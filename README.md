@@ -1,2 +1,1 @@
-# CocktailShaker
-API Project 
+# Project-js-api
